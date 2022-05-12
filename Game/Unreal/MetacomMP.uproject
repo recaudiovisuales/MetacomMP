@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9B2D603F-45EC-FFA3-E61D-D786F26E569D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MetacomMP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
